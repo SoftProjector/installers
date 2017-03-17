@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>SoftProjector</DisplayName>
+    <Description>Install SoftProjector 2.1.</Description>
+    <Default>true</Default>
+    <Version>2.1</Version>
+    <ReleaseDate>2017-02-12</ReleaseDate>
+    <Licenses>
+        <License name="GNU3" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+</Package>

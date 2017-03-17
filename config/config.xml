@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>SoftProjector</Name>
+    <Version>2.1</Version>
+    <Title>SoftProjector Installer</Title>
+    <Publisher>Vladozar</Publisher>
+    <StartMenuDir>SoftProjector</StartMenuDir>
+    <TargetDir>@HomeDir@/SoftProjector</TargetDir>
+    <InstallerWindowIcon>softprojector.png</InstallerWindowIcon>
+    <InstallerApplicationIcon>softprojector.ico</InstallerApplicationIcon>
+</Installer>
